@@ -1,6 +1,4 @@
-## Deployed on Netlify:
 
-[View Deployment](https://tfs-frontend.netlify.app)
 
 ## Tecnologies
 <div> 
